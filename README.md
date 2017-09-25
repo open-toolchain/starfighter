@@ -1,7 +1,7 @@
 Node Starfighter
 -----------------
 
-Level up Your Game by Using Application Health Analytics and Test Automation
+Level up Your Game by Using Application Health Analytics and Test Automationf
 ----------------------------------------------------------------------------
 
 
@@ -13,7 +13,7 @@ In this lab, you will be cloning your own copy of our Starfighter application, a
 Deploying to Bluemix
 --------------------
 
-1. To get started, first browse to the starfighter application's [git repository](https://github.com/skaegi/starfighter).
+1. To get started, first browse to the starfighter application's [git repository](https://github.com/open-toolchain/starfighter).
 1. Next, click on the [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/open-toolchain/starfighter) button.
 1. If you do not already have a Bluemix account, getting one is quick and easy.  Just click on the _Sign up_ link.  If you already have an account, click on the _Login_ button to sign in.
 1. After logging in, simply click on _Deploy_ to deploy your app.
