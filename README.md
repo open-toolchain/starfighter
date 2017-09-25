@@ -19,7 +19,7 @@ Deploying to Bluemix
 1. After logging in, simply click on _Deploy_ to deploy your app.
 1. If you want up to the minute status on your deployment, click on the _Configured pipeline successfully_ link to view the status of your brand new deployment pipeline *in a new tab*.  _Keep this tab open for later._
 1. Once the deployment is complete, click on the the _View Your App_ link to browse to your brand new running app *in a new tab*.  Play a few games and see if you get a high score.  When you're done, close this tab to return to the *Deploy to Bluemix* page to continue.
-1. Remember that this app is instrumented with _New Relic_, and it has already begun collecting valuable application health statistics.  To open up the New Relic dashboard, *open a new browser tab* and browse to [your Bluemix dashboard](https://console.ng.bluemix.net/#/resources), click on your _New Relic_ service instance, and then on _Open New Relic Dashboard_.
+1. Remember that this app is instrumented with _New Relic_, and it has already begun collecting valuable application health statistics.  To open up the New Relic dashboard, *open a new browser tab* and browse to [your Bluemix dashboard](https://console.bluemix.net/#/resources), click on your _New Relic_ service instance, and then on _Open New Relic Dashboard_.
 1. Here you can view information on your application's performance and health, including average request latency, throughput, response time, memory and CPU usage.
 1. When you're done monitoring your app, return to the *Deploy to Bluemix* tab to continue.
 
