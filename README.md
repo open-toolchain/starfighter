@@ -1,7 +1,7 @@
 Node Starfighter
 -----------------
 
-Level up Your Game by Using Application Health Analytics and Test Automationf
+Level up Your Game by Using Application Health Analytics and Test Automation
 ----------------------------------------------------------------------------
 
 
