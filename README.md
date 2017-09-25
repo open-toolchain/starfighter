@@ -1,11 +1,11 @@
-Node Starfighter - Interconnect 2016
--------------------------------
+Node Starfighter
+-----------------
 
 Level up Your Game by Using Application Health Analytics and Test Automation
 ----------------------------------------------------------------------------
 
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/skaegi/starfighter)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/open-toolchain/starfighter)
 
 
 In this lab, you will be cloning your own copy of our Starfighter application, a multiplayer shoot-em-up powered by IBM MessageSight.  We'll outline the steps to deploy the code to IBM Bluemix and monitor the application's health using New Relic.
